@@ -1,5 +1,6 @@
 const head = document.getElementById('head');
 head.style.color = 'green';
+head.style.fontFamily = 'cursive';
 function writeText(text) {
   let index = 0;
   function writeNextLetter() {
