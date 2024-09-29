@@ -13,7 +13,7 @@ function writeText(text) {
   }
   let interval = setInterval(writeNextLetter, 100);
 }
-writeText('Welcome');
+writeText('Welcome Edijay');
 const hatm = document.getElementById('hatm');
 document.getElementById('hat').addEventListener('click', () => {
   hatm.play();
